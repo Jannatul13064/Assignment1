@@ -24,7 +24,7 @@ span{
 .half-container img{
     width: 100%;
 }
-section{
+.felxcontainer{
     display: flex;
     margin-bottom: 150px;
 }
