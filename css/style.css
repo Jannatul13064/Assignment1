@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;;
+}
+h1 {
+    font-size: 44px;
+    font-weight: bolder;
+    margin-top: 44px;
+    margin-bottom: 34px;
+}
+span{
+    color: orange;
+}
+.half-container {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-container img{
+    width: 100%;
+}
+section{
+    display: flex;
+}
