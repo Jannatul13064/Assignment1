@@ -26,6 +26,7 @@ span{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .btn{
     text-decoration: none;
@@ -45,4 +46,9 @@ p {
     background-image: url(../img/top-banner.png);
     
     background-repeat: no-repeat;
+}
+.dream{
+    background-image: url(../img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
